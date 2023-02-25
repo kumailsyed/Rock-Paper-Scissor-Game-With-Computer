@@ -1,0 +1,18 @@
+body{
+    background-color: silver;
+    text-align: left;
+
+}
+.box{
+    width: 540px;
+    height: auto;
+    padding: 2rem;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+form{
+    display: flex;
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+}
